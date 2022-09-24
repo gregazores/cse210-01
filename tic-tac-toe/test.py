@@ -106,3 +106,22 @@ while i < len(test)/3:
 print(test2)
 
 """
+
+"""
+
+
+word = ["|".join("123"), "|".join("456"), "|".join("789")]
+def print_grid():
+    row_format = []
+    line_breaker = f"\n-+-+-\n" 
+    print(line_breaker.join(word))
+
+word = [1,2,3,]
+def print_grid():
+    sample = ""
+    for x in grid_array:
+        sample =  sample + f'{x}'       
+    print("|".join(sample))
+
+
+"""

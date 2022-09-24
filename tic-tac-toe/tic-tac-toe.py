@@ -1,4 +1,8 @@
 
+#Week 2 Introduction: Ponder and Prove Solo Submission
+#Tic-Tac-Toe assignment for week 2
+#Author: Jeevee Greg Azores
+
 from pickle import TRUE
 
 
